@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 数据与训练产物
+data/*.csv
+data/*.zip
+outputs/
+*.pdparams
+
+# 编辑器
+.vscode/
+.idea/
